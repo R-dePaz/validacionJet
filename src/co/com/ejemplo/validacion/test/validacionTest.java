@@ -18,7 +18,7 @@ public static final String resultado = "Claro2323.";
 		try {
 			String respuesta = valueString.captar(resultado);
 			System.out.println("La Cadena es:"+ respuesta );
-			assertEquals("Claro2323.", respuesta);
+			assertEquals("Claro2323.#", respuesta);
 			
 			
 		}
