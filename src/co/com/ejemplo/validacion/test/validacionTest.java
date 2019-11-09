@@ -6,7 +6,7 @@ package co.com.ejemplo.validacion.test;
 import static org.junit.Assert.*;
 import org.junit.Test;
 import co.com.ejemplo.validacion.test.valueString;
-import junit.framework.Assert;
+
 
 
 
